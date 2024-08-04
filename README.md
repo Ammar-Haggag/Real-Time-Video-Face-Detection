@@ -1,7 +1,4 @@
 # Real-Time-Video-Face-Detection
-Sure, here's a detailed description for your GitHub repository:
-
----
 
 ## Real-Time Face Detection with C++ and Raspberry Pi
 
@@ -65,10 +62,4 @@ Once the application is running, it will capture video from your laptop camera a
 
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
 
-### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize any section to better fit your project's specifics!
